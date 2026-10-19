@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Auta>
+	<Auto>
+		<Model>Škoda Oktávia</Model>
+		<DatumProdeje>2010-12-2</DatumProdeje>
+		<Cena>500000</Cena>
+		<DPH>20</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Felicia</Model>
+		<DatumProdeje>2000-12-3</DatumProdeje>
+		<Cena>210000</Cena>
+		<DPH>20</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Fabia</Model>
+		<DatumProdeje>2010-12-4</DatumProdeje>
+		<Cena>350000</Cena>
+		<DPH>20</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Oktávia</Model>
+		<DatumProdeje>2010-12-4</DatumProdeje>
+		<Cena>500000</Cena>
+		<DPH>20</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Oktávia</Model>
+		<DatumProdeje>2010-12-5</DatumProdeje>
+		<Cena>500000</Cena>
+		<DPH>20</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Fabia</Model>
+		<DatumProdeje>2010-12-5</DatumProdeje>
+		<Cena>350000</Cena>
+		<DPH>20</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Fabia</Model>
+		<DatumProdeje>2010-12-6</DatumProdeje>
+		<Cena>350000</Cena>
+		<DPH>20</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Forman</Model>
+		<DatumProdeje>2000-12-4</DatumProdeje>
+		<Cena>100000</Cena>
+		<DPH>19</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Favorit</Model>
+		<DatumProdeje>2000-12-5</DatumProdeje>
+		<Cena>80000</Cena>
+		<DPH>19</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Forman</Model>
+		<DatumProdeje>2000-12-6</DatumProdeje>
+		<Cena>100000</Cena>
+		<DPH>19</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Felicia</Model>
+		<DatumProdeje>2000-12-3</DatumProdeje>
+		<Cena>210000</Cena>
+		<DPH>19</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Felicia</Model>
+		<DatumProdeje>2000-12-2</DatumProdeje>
+		<Cena>210000</Cena>
+		<DPH>19</DPH>
+	</Auto>
+	<Auto>
+		<Model>Škoda Oktávia</Model>
+		<DatumProdeje>2010-12-7</DatumProdeje>
+		<Cena>500000</Cena>
+		<DPH>20</DPH>
+	</Auto>
+</Auta>
